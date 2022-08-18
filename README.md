@@ -1,0 +1,2 @@
+# CreateFoldersViaExcel
+读取xls文件，以选定的列的单元格内容创建文件夹
